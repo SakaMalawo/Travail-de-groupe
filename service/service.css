@@ -1,0 +1,98 @@
+
+.Services{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.graphisme{
+    background-color: #fff;
+    border-radius: 25px;
+    box-shadow: 2px 2px 10px rgba(32, 31, 31, 0.74);
+}
+.graphisme img{
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+.graphisme h3{
+    text-align: center;
+    color: rgb(3, 3, 128);
+}
+.graphisme a{
+    text-decoration: none;
+    margin-left: 35%;
+    background-color: rgb(3, 3, 128);
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+   
+
+}
+.mobile{
+    box-shadow: 2px 2px 10px rgba(32, 31, 31, 0.74);
+    background-color: #fff;
+    border-radius: 25px;
+}
+.mobile img{
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+.mobile h3{
+    text-align: center;
+    color: rgb(3, 3, 128);
+}
+.mobile a{
+    text-decoration: none;
+    margin-left: 35%;
+    background-color: rgb(3, 3, 128);
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+    
+
+}
+.securite{
+    box-shadow: 2px 2px 10px rgba(32, 31, 31, 0.74);
+    background-color: #fff;
+    border-radius: 25px;
+}
+.securite img{
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+.securite h3{
+    text-align: center;
+    color: rgb(3, 3, 128);
+}
+.securite a{
+    text-decoration: none;
+    margin-left: 35%;
+    background-color: rgb(3, 3, 128);
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+    
+
+}
+.naturel{
+    box-shadow: 2px 2px 10px rgba(32, 31, 31, 0.74);
+    background-color: #fff;
+    border-radius: 25px;
+}
+.naturel img{
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+.naturel h3{
+    text-align: center;
+    color: rgb(3, 3, 128);
+}
+.naturel a{
+    text-decoration: none;
+    margin-left: 35%;
+    background-color: rgb(3, 3, 128);
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+  
+
+}
