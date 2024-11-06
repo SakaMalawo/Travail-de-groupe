@@ -2,10 +2,12 @@
     font-family: verdana;
     
 }
+body{
+    background-color: rgb(221, 219, 219);
+}
 .One h1{
     text-align: center;
     color: rgb(5, 5, 133);
-    background-color: #fff;
     text-shadow: 2px 2px 10px rgba(9, 121, 185, 0.74);
 }
 .One p{
@@ -105,6 +107,46 @@
     color: white;
     padding: 10px;
     border-radius: 15px;
-  
+}
+.economie{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    box-shadow: 2px 2px 10px rgba(32, 31, 31, 0.74);
+    background-color: #fff;
+    border-radius: 30px;
+}
+.economie img{
+   border-radius: 15px;
+}
+.eco h3{
+    color: green;
+    font-size: 40px;
+}
+.eco p{
+    font-family: cursive;
+    color: grey;
+}
+.ec ul{
+    border: 1px solid green;
+    padding: 10px;
+    font-weight: bold;
+    background-color: green;
+    backdrop-filter: blur(50px);
+    border-radius: 10px;
+}
+.ec ul li{
+    display: block;
+    color: white;
+    margin-top: 25px;
 
 }
+.ec a{
+    text-decoration: none;
+    margin-left: 35%;
+    background-color: rgb(236, 174, 4);
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+}
+
