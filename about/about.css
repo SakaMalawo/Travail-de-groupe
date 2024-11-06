@@ -1,3 +1,6 @@
+*{
+    font-family: verdana;
+}
 .propos{
     backdrop-filter: blur(10px);
     background-color: rgba(2, 2, 80, 0.774);
