@@ -47,7 +47,7 @@
 .contact-form button {
     background-color: black;
     color: white;
-    border: 1px solid orange;
+    border: 1px solid blue;
     border-radius: 3px;
     cursor: pointer;
     width: 100px;
@@ -77,6 +77,13 @@
 .autres a {
     text-decoration: none;
     color: cadetblue;
-    padding: 20px;
+    padding: 150px;
     text-align: center;
+    margin-left: 50px;
+}
+
+h2 {
+    color: white;
+    font-family: cursive;
+    margin-left: 50px;
 }
