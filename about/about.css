@@ -4,7 +4,6 @@
 
 .propos {
     backdrop-filter: blur(10px);
-    background-color: rgb(3, 3, 128);
     margin-top: -40px;
 }
 
@@ -35,4 +34,8 @@
     text-align: center;
     color: rgb(3, 3, 128);
 
+}
+
+.fondateur {
+    display: flex;
 }
