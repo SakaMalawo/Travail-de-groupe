@@ -1,32 +1,37 @@
-*{
+* {
     font-family: verdana;
 }
-.propos{
+
+.propos {
     backdrop-filter: blur(10px);
-    background-color: rgba(2, 2, 80, 0.774);
+    background-color: rgb(3, 3, 128);
     margin-top: -40px;
 }
 
-.propos  h1{
+.propos h1 {
     color: rgb(5, 5, 194);
     text-align: center;
 }
-.paragraph{
+
+.paragraph {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     padding: 25px;
 }
-.paragraph p{
+
+.paragraph p {
     font-size: 14px;
     color: rgb(211, 207, 207);
 }
-.One{
-    background-color: #fff; 
+
+.One {
+    background-color: #fff;
     padding: 0px;
     margin-top: -25px;
 }
-.One h1{
+
+.One h1 {
     text-align: center;
     color: rgb(3, 3, 128);
 
